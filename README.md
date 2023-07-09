@@ -1,11 +1,9 @@
 <div align="center">
-<img src="https://i.ibb.co/YLgXJtc/imb.png" align="center" style="width: 100% , border-radius:10px" />
+<img src="https://i.ibb.co/YLgXJtc/imb.png" align="center" style="width: 100%; border-radius: 10px;" />
 </div>  
   
-
-### <div align="center">I'm Mahamudul Hasan Miyad, a full-time MERN-stack  developer 🚀</div>  
   
-<h1 align="center">Hi 👋, I'm Mahamudul Hasan Miyad</h1>
+<h1 align="center">Hi 👋, I'm Mahamudul Hasan Miyad  a full-time MERN-stack  developer 🚀</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mh-miyad" alt="mh-miyad" /></a> </p>
