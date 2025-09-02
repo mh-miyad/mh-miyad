@@ -8,7 +8,7 @@
 <h4 align="center">Building scalable web applications with modern technologies from Bangladesh 🇧🇩</h4>
 
 <p align="center">
-  <a href="https://mhmiyad.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://portfolio-miyad.vercel.app/">🌐 Portfolio</a> •
   <a href="mailto:mhmiyad6565@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/mh-miyad">💼 LinkedIn</a> •
   <a href="tel:+8801879042507">📱 +880 187 904 2507</a>
