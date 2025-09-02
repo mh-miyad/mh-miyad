@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahamudul Hasan Miyad
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1xU3ZkY_3Yy0YolvP-ze1NQmqpFRVvAUu/view" alt="Profile Banner" style="width: 100%; border-radius: 10px;" />
+  <img src="./github-img.png" alt="Profile Banner" style="width: 100%; border-radius: 10px;" />
 </div>
 
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist | 3+ Years Experience</h3>
