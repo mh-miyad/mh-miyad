@@ -1,44 +1,175 @@
+# 👋 Hi, I'm Mahamudul Hasan Miyad
+
 <div align="center">
-<img src="https://i.ibb.co/YLgXJtc/imb.png" align="center" style="width: 100%; border-radius: 10px;" />
-</div>  
-  
-  
-<h1 align="center">Hi 👋, I'm Mahamudul Hasan Miyad  a full-time MERN-stack  developer 🚀</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+  <img src="https://drive.google.com/file/d/1xU3ZkY_3Yy0YolvP-ze1NQmqpFRVvAUu/view" alt="Profile Banner" style="width: 100%; border-radius: 10px;" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mh-miyad" alt="mh-miyad" /></a> </p>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist | 3+ Years Experience</h3>
+<h4 align="center">Building scalable web applications with modern technologies from Bangladesh 🇧🇩</h4>
 
-- 🔭 I’m currently working on [MOORAN](https://mooran-shop.vercel.app/)
-
-- 🌱 I’m currently learning **React Native , GraphQL, Redux And Redux-Toolkit**
-
-- 👯 I’m looking to collaborate on [EDUVI](https://learning-eduvi.vercel.app/)
-
-- 🤝 I’m looking for help with [TOYTOPIA](https://toytopia.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://mhmiyad.vercel.app/](https://mhmiyad.vercel.app/)
-
-- 📝 I regularly write articles on [https://mhmiyad.vercel.app/](https://mhmiyad.vercel.app/)
-
-- 💬 Ask me about **Reactjs , ES6 ,**
-
-- 📫 How to reach me **mhmiyad6565@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1drlmzn0P14_iWW5oIILnJYGRWnYIUzB3/view](https://drive.google.com/file/d/1drlmzn0P14_iWW5oIILnJYGRWnYIUzB3/view)
-
-- ⚡ Fun fact **I Think I am A Cool guy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mh-miyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mh-miyad" height="30" width="40" /></a>
-<a href="https://fb.com/mh-miyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mh-miyad" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://mhmiyad.vercel.app/">🌐 Portfolio</a> •
+  <a href="mailto:mhmiyad6565@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/mh-miyad">💼 LinkedIn</a> •
+  <a href="tel:+8801879042507">📱 +880 187 904 2507</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-miyad&show_icons=true&locale=en&layout=compact" alt="mh-miyad" /></p>
+## 🎯 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mh-miyad&show_icons=true&locale=en" alt="mh-miyad" /></p>
+Results-driven **Full Stack Developer** with **3+ years** of experience building user-focused web applications. I specialize in the **MERN stack** and have a passion for creating clean, scalable code that enhances user experience and drives project success.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mh-miyad&" alt="mh-miyad" /></p>
+- 🔭 **Currently working on:** [MOORAN](https://mooran-shop.vercel.app/) - E-commerce platform
+- 🌱 **Learning:** React Native, GraphQL, Redux Toolkit, TypeScript
+- 👯 **Open to collaborate on:** [EDUVI](https://learning-eduvi.vercel.app/) - Learning platform
+- 💬 **Ask me about:** React.js, Node.js, JavaScript (ES6+), MongoDB
+- ⚡ **Fun fact:** I think I'm a cool guy who loves turning coffee into code ☕
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 **Front End Developer** @ Royex Technologies
+*December 2023 - Present*
+- Crafted **15+ responsive web pages**, increasing user engagement by **20%**
+- Engineered **10+ custom React components**, reducing page load times by **15%**
+- Championed clean, maintainable code, reducing bug reports by **25%**
+
+### 🏢 **MERN Stack Developer** @ Lumen Soft Tech
+*July 2022 - November 2023*
+- Built scalable SPAs with React and Next.js, improving page load speeds by **20%**
+- Designed RESTful APIs with Express.js, reducing server response times by **25%**
+- Optimized performance, cutting load times by **30%** and downtime by **15%**
+
+---
+
+## 🏆 Awards & Recognition
+
+🥇 **Creative Front End Developer of the Month** (2023)  
+🏆 **Best Employee of the Year** - Lumen Soft Tech (2022)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 [CODITALK](https://github.com/mh-miyad/coditalk) | [Live Demo](https://coditalk-live.vercel.app)
+*December 2023 - January 2024*
+
+A micro-blogging platform with 200-character limit conversations
+- **40% performance boost** using Redux Async-Thunk
+- Reduced page load times from **5s to 3s**
+- Improved user satisfaction scores by **30%**
+
+**Tech Stack:** React, TypeScript, Next.js, MongoDB, JWT, Mongoose, Firebase, Redux
+
+### 📚 [EDUVI Learning Platform](https://learning-eduvi.vercel.app) | [GitHub](https://github.com/mh-miyad/eduvi)
+*January 2025 - Present*
+
+Next-generation e-learning platform with mobile-first design
+- **40% increase** in user engagement
+- **25% boost** in mobile retention
+- **30% faster** load times, increasing course completions by **25%**
+
+**Tech Stack:** React, Vite, Mongoose, Firebase, Zod, MongoDB, JWT, Vercel
+
+### 🛒 [LumeAxis E-commerce](https://lumeaxis-live.vercel.app)
+*May 2023 - June 2023*
+
+Modern e-commerce platform with advanced features
+- GSAP-powered transitions boosting engagement by **40%**
+- SEO-optimized UI reducing load times by **35%** (under 2 seconds)
+- Stripe integration improving transaction efficiency by **30%**
+
+**Tech Stack:** Next.js, TypeScript, Shadcn UI, Tailwind CSS, Express.js, Prisma, MongoDB, GSAP, Stripe
+
+---
+
+## 🛠️ Technical Skills
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Tools & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### **Design & Testing**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mh-miyad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-miyad&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-miyad&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mh-miyad&theme=onedark&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mh-miyad&theme=tokyo-night" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Business Administration (BBA) in Accounting**  
+*Green University of Bangladesh* | 2024 - 2028
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mh-miyad)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mh-miyad)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mhmiyad.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmiyad6565@gmail.com)
+
+</div>
+
+---
+
+## 💭 Quote
+
+> "Clean code always looks like it was written by someone who cares." - Robert C. Martin
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mh-miyad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  **Thanks for visiting! Let's build something amazing together! 🚀**
+</div>
