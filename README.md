@@ -18,7 +18,7 @@
 
 ## 🎯 About Me
 
-Results-driven **Full Stack Developer** with **3+ years** of experience building user-focused web applications. I specialize in the **MERN stack** and have a passion for creating clean, scalable code that enhances user experience and drives project success.
+Results-driven **Full Stack Developer** with **5+ years** of experience building user-focused web applications. I specialize in the **MERN stack** and have a passion for creating clean, scalable code that enhances user experience and drives project success.
 
 - 🔭 **Currently working on:** [MOORAN](https://mooran-shop.vercel.app/) - E-commerce platform
 - 🌱 **Learning:** React Native, GraphQL, Redux Toolkit, TypeScript
