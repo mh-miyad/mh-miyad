@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mahamudul Hasan Miyad</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist | Product Builder</h3>
+<h3 align="center"> Full Stack Developer | Founder and CTO @Xiomtech | Product Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Products+is+My+Passion;5%2B+Years+of+Experience;MERN+Stack+Specialist;Working+with+International+Clients" alt="Typing SVG" />
@@ -34,7 +34,7 @@ I'm a **Full Stack Developer** with **5+ years** of hands-on experience building
 
 Currently crafting **enterprise-grade solutions** at **Royex Technologies**, collaborating with **international clients** across UAE, Saudi Arabia, Qatar, and beyond. I thrive in fast-paced environments where innovation meets execution.
 
-- 🔭 **Currently building:** Enterprise solutions at **Royex Technologies** for global clients
+- 🔭 **Currently building:** Enterprise solutions at **XiomTech ** for global clients
 - 🌱 **Mastering:** Advanced TypeScript, System Design, Microservices Architecture
 - 💡 **Passion:** Building products that solve real problems and delight users
 - 👯 **Open to collaborate on:** Innovative SaaS products, E-commerce platforms, AI-powered solutions
@@ -46,7 +46,7 @@ Currently crafting **enterprise-grade solutions** at **Royex Technologies**, col
 ## 💼 Professional Experience
 
 ### 🏢 **Full Stack Developer** @ [Royex Technologies](https://royex.ae/)
-*December 2023 - Present | Dubai, UAE (Remote)*
+*December 2023 - 2025 | Dubai, UAE (Remote)*
 
 Royex Technologies is a leading AI-Transformation and Digital Solutions agency based in Dubai, delivering premium web design, mobile apps, eCommerce solutions, and AI-powered business systems to 500+ clients across the Middle East.
 
