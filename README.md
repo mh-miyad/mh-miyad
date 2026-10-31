@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mahamudul Hasan Miyad</h1>
-<h3 align="center"> Full Stack Developer | Founder and CTO @Xiomtech | Product Builder</h3>
+<h3 align="center"> Full Stack Developer | Founder and MD @Xiomtech | Product Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Products+is+My+Passion;5%2B+Years+of+Experience;MERN+Stack+Specialist;Working+with+International+Clients" alt="Typing SVG" />
